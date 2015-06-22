@@ -1,0 +1,9 @@
+*.l#*
+*.s#*
+*.b#*
+*.pdf
+*.pro
+*.zip
+*.swp
+*/datasheets
+*/*/gerber
